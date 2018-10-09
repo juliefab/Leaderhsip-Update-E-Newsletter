@@ -1,2 +1,2 @@
 # hello-world
-october lu code for html email
+Julie here. I like keeping track of changes in github.
